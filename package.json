@@ -1,0 +1,23 @@
+{
+  "name": "node_hazelcast",
+  "version": "1.0.0",
+  "description": "Node with Hazelcast example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianommartins/node_hazelcast.git"
+  },
+  "author": "Juliano Marcos Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julianommartins/node_hazelcast/issues"
+  },
+  "homepage": "https://github.com/julianommartins/node_hazelcast#readme",
+  "dependencies": {
+    "hazelcast-client": "^3.12.1",
+    "save": "^2.4.0"
+  }
+}
